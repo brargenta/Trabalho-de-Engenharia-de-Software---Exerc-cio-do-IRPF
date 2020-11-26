@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -84,3 +85,6 @@ char nome[50];
 
     return 0;
 }
+   
+
+
